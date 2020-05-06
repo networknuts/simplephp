@@ -1,2 +1,2 @@
 <h3>Services</h3>
-You at Services pages now.!
+Linux, Cloud, DevOps, Automation training and certification

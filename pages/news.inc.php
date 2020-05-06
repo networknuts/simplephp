@@ -1,2 +1,2 @@
 <h3>News</h3>
-No News, Yet.
+no news is a good news
