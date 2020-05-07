@@ -180,7 +180,7 @@ body{
 		if(!$_SESSION['boolLog']){
 		echo"
 			<li><a href=\"index.php\">Home</a></li>
-			<li><a href=\"index.php?p=AboutUs\">About</a></li>
+			<li><a href=\"index.php?p=aboutus\">About</a></li>
 			<li><a href=\"index.php?p=services\">Services</a></li>
 			<li><a href=\"index.php?p=contactus\">Contact us</a></li>
 			<li><a href=\"forum.php\">Forum</a></li>
@@ -241,7 +241,7 @@ body{
 		</div>
 	</div>
 	<div id="footer">
-		Copyright
+		Copyright @networknuts
 	</div>
 </div>
 
